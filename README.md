@@ -6,7 +6,7 @@ The firmware upgrade procedure didn't go too well on mine.
 It ended up blinking the power LED over and over, without any
 network activity.
 
-## Recorvery steps
+## Recovery steps
 
 ```
 git clone git@github.com:wkoszek/netgear_recovery.git
